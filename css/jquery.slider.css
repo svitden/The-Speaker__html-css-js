@@ -1,0 +1,15 @@
+.comments {		
+	overflow: hidden;
+}
+
+.comments .comments-item {
+	position: absolute;
+	opacity: 0;	
+	display: none;
+}
+
+.comments .comments-item.current {
+	opacity: 1;
+	display: block;	
+	position: static;
+}
