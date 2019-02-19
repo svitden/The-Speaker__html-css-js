@@ -1,6 +1,6 @@
-# The-Speaker__html-css-js
+# The-Speaker
 
-### Учебный проект
+### Учебный проект (html, css, js, jQuery)
 
   1. Адаптивная вёрска
   2. БЭМ 
